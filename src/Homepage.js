@@ -45,12 +45,7 @@ function Homepage() {
             <h1 className="loadpage">Loading...<br></br><img className="App-logo" src="https://i.imgur.com/7Qqj2wn.png" alt="Loading Icon"/></h1>
         )
     }
-
-    // return(
-    //     <div>
-    //         {starships}
-    //     </div>
-    // )
+    
 }
 
 export default Homepage;
